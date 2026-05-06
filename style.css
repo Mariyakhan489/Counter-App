@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+}
+#inc{
+    background-color: rgb(100, 196, 100);
+    color: aliceblue;
+    padding: 12px 24px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#inc:hover {
+  background-color: darkgreen;
+}
+#dec{
+    background-color: rgb(196, 100, 100);
+    color: aliceblue;
+    padding: 12px 24px;
+    font-size: 20px; 
+    border-radius: 8px;
+    cursor: pointer;
+}
+#dec:hover{
+  background-color: darkred;
+}
+#reset{
+    background-color: rgb(100, 124, 196);
+    color: aliceblue;
+    padding: 12px 24px;
+    font-size: 20px;
+    border-radius: 8px;   
+    cursor: pointer;
+}
+#reset:hover {
+  background-color: darkblue;
+}
+#count{
+    font-size: 150px;
+}
+h1{
+    font-size: 50px;
+}
